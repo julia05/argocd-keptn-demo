@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: sampleapps/simplenodeapp
-    repoURL: https://github.com/grabnerandi/argocd-keptn-demo.git
+    repoURL: https://github.com/julia05/argocd-keptn-demo.git
     targetRevision: main
   syncPolicy:
     automated:
